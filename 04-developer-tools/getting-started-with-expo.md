@@ -1,10 +1,11 @@
-﻿---
-title: "Getting Started With Expo"
-description: "Use Expo to create, run, and understand a beginner React Native project."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Getting Started With Expo |
+| Description | Use Expo to create, run, and understand a beginner React Native project. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Getting Started With Expo
 
 Expo gives beginners a faster path into React Native by handling much of the setup around development servers, device previews, and native APIs. This guide explains where Expo helps and where it still matters to understand React Native itself.

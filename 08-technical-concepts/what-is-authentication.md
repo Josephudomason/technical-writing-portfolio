@@ -1,10 +1,11 @@
-﻿---
-title: "What Is Authentication?"
-description: "A beginner-friendly explanation of authentication and how applications verify identity."
-category: "Technical Concepts"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | What Is Authentication? |
+| Description | A beginner-friendly explanation of authentication and how applications verify identity. |
+| Category | Technical Concepts |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # What Is Authentication?
 
 Authentication is the process of verifying who a user or system is.

@@ -1,10 +1,11 @@
-﻿---
-title: "Understanding map(), filter(), and reduce() in JavaScript"
-description: "Learn how map(), filter(), and reduce() transform arrays in JavaScript with practical examples."
-category: "Beginner Programming"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Understanding map(), filter(), and reduce() in JavaScript |
+| Description | Learn how map(), filter(), and reduce() transform arrays in JavaScript with practical examples. |
+| Category | Beginner Programming |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Understanding map(), filter(), and reduce() in JavaScript
 
 Most JavaScript apps spend a lot of time reshaping lists: products from an API, users from a database, search results, cart items, form fields, and navigation links. `map()`, `filter()`, and `reduce()` are three array methods you will reach for constantly when working with that kind of data.

@@ -1,10 +1,11 @@
-﻿---
-title: "Playwright Beginner's Guide"
-description: "Write end-to-end tests with Playwright, page interactions, assertions, and debugging tools."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Playwright Beginner's Guide |
+| Description | Write end-to-end tests with Playwright, page interactions, assertions, and debugging tools. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Playwright Beginner's Guide
 
 Playwright tests the app through a browser, so it is best used for workflows that matter to users: signing in, submitting a form, navigating a dashboard, or confirming that important content appears.

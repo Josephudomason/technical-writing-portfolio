@@ -1,10 +1,11 @@
-﻿---
-title: "What Is PostgreSQL?"
-description: "A beginner-friendly explanation of PostgreSQL, tables, SQL, and relational data."
-category: "Technical Concepts"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | What Is PostgreSQL? |
+| Description | A beginner-friendly explanation of PostgreSQL, tables, SQL, and relational data. |
+| Category | Technical Concepts |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # What Is PostgreSQL?
 
 PostgreSQL is an open-source relational database system widely used for web applications, analytics, internal tools, and backend services.

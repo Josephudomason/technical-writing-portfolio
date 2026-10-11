@@ -1,10 +1,11 @@
-﻿---
-title: "What Is a Cloud Database?"
-description: "Understand cloud databases, managed services, backups, scaling, and beginner tradeoffs."
-category: "Technical Concepts"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | What Is a Cloud Database? |
+| Description | Understand cloud databases, managed services, backups, scaling, and beginner tradeoffs. |
+| Category | Technical Concepts |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # What Is a Cloud Database?
 
 A cloud database is a database hosted and managed through a cloud provider or backend platform.

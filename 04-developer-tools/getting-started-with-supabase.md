@@ -1,10 +1,11 @@
-﻿---
-title: "Getting Started With Supabase"
-description: "Connect a Next.js application to Supabase, read and write data, and understand security basics."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Getting Started With Supabase |
+| Description | Connect a Next.js application to Supabase, read and write data, and understand security basics. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Getting Started With Supabase
 
 Supabase is a practical way to add a hosted PostgreSQL backend to a small app without building every backend feature from scratch. This guide uses the common beginner path: create a table, connect a client, read data, and think about row-level security early.

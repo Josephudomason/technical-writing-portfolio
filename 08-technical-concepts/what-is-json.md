@@ -1,10 +1,11 @@
-﻿---
-title: "What Is JSON?"
-description: "Learn JSON syntax, data types, and why JSON is commonly used in APIs."
-category: "Technical Concepts"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | What Is JSON? |
+| Description | Learn JSON syntax, data types, and why JSON is commonly used in APIs. |
+| Category | Technical Concepts |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # What Is JSON?
 
 JSON is a lightweight data format used to exchange structured data between systems.

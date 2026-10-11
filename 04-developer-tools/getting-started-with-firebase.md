@@ -1,10 +1,11 @@
-﻿---
-title: "Getting Started With Firebase"
-description: "Set up Firebase in a JavaScript app and understand modular imports, services, and security rules."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Getting Started With Firebase |
+| Description | Set up Firebase in a JavaScript app and understand modular imports, services, and security rules. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Getting Started With Firebase
 
 Firebase is a collection of hosted app services, not a single database or library. This guide starts with the web setup path and calls out the security rules beginners often miss.

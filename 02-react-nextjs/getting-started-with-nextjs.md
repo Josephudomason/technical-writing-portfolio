@@ -1,10 +1,11 @@
-﻿---
-title: "Getting Started With Next.js"
-description: "Create a modern Next.js app using the App Router, TypeScript, and common project conventions."
-category: "React / Next.js"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Getting Started With Next.js |
+| Description | Create a modern Next.js app using the App Router, TypeScript, and common project conventions. |
+| Category | React / Next.js |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Getting Started With Next.js
 
 Next.js is a React framework for building web applications. It adds file-based routing, server rendering, data fetching patterns, optimization features, and deployment-friendly conventions.

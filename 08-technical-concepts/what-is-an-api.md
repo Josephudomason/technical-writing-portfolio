@@ -1,10 +1,11 @@
-﻿---
-title: "What Is an API?"
-description: "A simple explanation of APIs, requests, responses, endpoints, and why APIs matter."
-category: "Technical Concepts"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | What Is an API? |
+| Description | A simple explanation of APIs, requests, responses, endpoints, and why APIs matter. |
+| Category | Technical Concepts |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # What Is an API?
 
 An API is a defined way for software systems to communicate. Web APIs usually let a client request data or actions from a server.

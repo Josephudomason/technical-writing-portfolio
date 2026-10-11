@@ -1,10 +1,11 @@
-﻿---
-title: "Docker Beginner's Guide"
-description: "Learn Docker containers, images, Dockerfiles, and a simple Node.js workflow."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Docker Beginner's Guide |
+| Description | Learn Docker containers, images, Dockerfiles, and a simple Node.js workflow. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Docker Beginner's Guide
 
 Docker is easiest to learn when you treat it as a packaging tool first: define the environment, build an image, and run the app in a container. This guide focuses on that everyday workflow instead of trying to cover the whole Docker ecosystem at once.

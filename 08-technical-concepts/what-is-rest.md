@@ -1,10 +1,11 @@
-﻿---
-title: "What Is REST?"
-description: "Understand REST APIs, resources, HTTP methods, status codes, and JSON responses."
-category: "Technical Concepts"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | What Is REST? |
+| Description | Understand REST APIs, resources, HTTP methods, status codes, and JSON responses. |
+| Category | Technical Concepts |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # What Is REST?
 
 REST is an architectural style often used for web APIs. REST APIs organize functionality around resources.

@@ -1,10 +1,11 @@
-﻿---
-title: "Authentication"
-description: "Authentication requirements for the fictional User API, including bearer token usage and error responses."
-category: "API Documentation"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Authentication |
+| Description | Authentication requirements for the fictional User API, including bearer token usage and error responses. |
+| Category | API Documentation |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Authentication
 
 The Fictional User API uses bearer token authentication for protected endpoints. This page is part of a demonstration API documentation project and does not describe a real production API.

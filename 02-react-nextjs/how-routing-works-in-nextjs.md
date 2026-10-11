@@ -1,10 +1,11 @@
-﻿---
-title: "How Routing Works in Next.js"
-description: "Understand file-based routing, layouts, dynamic routes, and navigation in the Next.js App Router."
-category: "React / Next.js"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | How Routing Works in Next.js |
+| Description | Understand file-based routing, layouts, dynamic routes, and navigation in the Next.js App Router. |
+| Category | React / Next.js |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # How Routing Works in Next.js
 
 Next.js uses file-based routing. In the App Router, the folder structure inside `app` defines the URL structure of your application.

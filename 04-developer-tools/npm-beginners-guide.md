@@ -1,10 +1,11 @@
-﻿---
-title: "npm Beginner's Guide"
-description: "Understand npm, package.json, dependencies, scripts, and safe installation habits."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | npm Beginner's Guide |
+| Description | Understand npm, package.json, dependencies, scripts, and safe installation habits. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # npm Beginner's Guide
 
 npm is part package installer, part script runner, and part project metadata manager. This guide explains the files and commands beginners touch most often: `package.json`, the lockfile, dependencies, and scripts.

@@ -1,10 +1,11 @@
-﻿---
-title: "What Is JavaScript and How Does It Work?"
-description: "A beginner-friendly explanation of JavaScript, how it runs in browsers and Node.js, and where developers use it."
-category: "Beginner Programming"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | What Is JavaScript and How Does It Work? |
+| Description | A beginner-friendly explanation of JavaScript, how it runs in browsers and Node.js, and where developers use it. |
+| Category | Beginner Programming |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # What Is JavaScript and How Does It Work?
 
 JavaScript is a programming language used to add behavior to web pages, build user interfaces, call APIs, and run server-side code through environments such as Node.js. This article explains what JavaScript does and how it fits into modern web development.

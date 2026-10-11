@@ -1,10 +1,11 @@
-﻿---
-title: "Next.js Server Components vs Client Components"
-description: "Learn when to use Server Components and Client Components in the Next.js App Router."
-category: "React / Next.js"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Next.js Server Components vs Client Components |
+| Description | Learn when to use Server Components and Client Components in the Next.js App Router. |
+| Category | React / Next.js |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Next.js Server Components vs Client Components
 
 In the Next.js App Router, the first question to ask about a component is simple: does this need to run in the browser? If the answer is no, it can usually stay as a Server Component. If the answer is yes, it probably needs to be a Client Component.

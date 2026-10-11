@@ -1,10 +1,11 @@
-﻿---
-title: "Technical Writing Portfolio Documentation Library"
-description: "A professional Markdown documentation library covering beginner programming, React, mobile development, tools, APIs, troubleshooting, product docs, and technical concepts."
-category: "Documentation Library"
-audience: "Beginner and junior developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Technical Writing Portfolio Documentation Library |
+| Description | A professional Markdown documentation library covering beginner programming, React, mobile development, tools, APIs, troubleshooting, product docs, and technical concepts. |
+| Category | Documentation Library |
+| Audience | Beginner and junior developers |
+| Difficulty | Beginner |
+
 # Technical Writing Portfolio Documentation Library
 
 This library collects practical developer documentation for people learning modern web and mobile development. It includes tutorials, concept explainers, troubleshooting guides, a fictional REST API reference, and fictional product documentation.
@@ -20,14 +21,14 @@ This library collects practical developer documentation for people learning mode
 
 ```text
 docs/
-├── 01-beginner-programming/
-├── 02-react-nextjs/
-├── 03-react-native-mobile/
-├── 04-developer-tools/
-├── 05-api-documentation/
-├── 06-troubleshooting/
-├── 07-product-documentation/
-└── 08-technical-concepts/
++-- 01-beginner-programming/
++-- 02-react-nextjs/
++-- 03-react-native-mobile/
++-- 04-developer-tools/
++-- 05-api-documentation/
++-- 06-troubleshooting/
++-- 07-product-documentation/
++-- 08-technical-concepts/
 ```
 
 ## How Articles Are Organized

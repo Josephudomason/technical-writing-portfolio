@@ -1,10 +1,11 @@
-﻿---
-title: "How to Fix a React App That Won't Start"
-description: "Diagnose and fix common reasons a React development server fails to start."
-category: "Troubleshooting"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | How to Fix a React App That Won't Start |
+| Description | Diagnose and fix common reasons a React development server fails to start. |
+| Category | Troubleshooting |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # How to Fix a React App That Won't Start
 
 This troubleshooting guide explains how to diagnose the problem, identify likely causes, and apply fixes in a safe order.

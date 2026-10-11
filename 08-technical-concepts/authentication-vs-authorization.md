@@ -1,10 +1,11 @@
-﻿---
-title: "Authentication vs Authorization"
-description: "Learn the difference between proving identity and granting access permissions."
-category: "Technical Concepts"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Authentication vs Authorization |
+| Description | Learn the difference between proving identity and granting access permissions. |
+| Category | Technical Concepts |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Authentication vs Authorization
 
 Authentication and authorization are related, but they answer different questions.

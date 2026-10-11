@@ -1,10 +1,11 @@
-﻿---
-title: "Async/Await Explained Simply"
-description: "Learn how async and await work in JavaScript and how to use them for API requests."
-category: "Beginner Programming"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Async/Await Explained Simply |
+| Description | Learn how async and await work in JavaScript and how to use them for API requests. |
+| Category | Beginner Programming |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Async/Await Explained Simply
 
 `async` and `await` make asynchronous JavaScript easier to read. They are commonly used when fetching data, reading files, waiting for timers, or performing work that finishes later.

@@ -1,10 +1,11 @@
-﻿---
-title: "Getting Started With NovaBank"
-description: "Create a fictional NovaBank account, log in, and reset a password."
-category: "Product Documentation"
-audience: "Banking app users and support teams"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Getting Started With NovaBank |
+| Description | Create a fictional NovaBank account, log in, and reset a password. |
+| Category | Product Documentation |
+| Audience | Banking app users and support teams |
+| Difficulty | Beginner |
+
 # Getting Started With NovaBank
 
 > NovaBank is a fictional banking application used for portfolio documentation. It is not a real bank, financial institution, or regulated product.

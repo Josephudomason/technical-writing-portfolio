@@ -1,10 +1,11 @@
-﻿---
-title: "Getting Started With VS Code"
-description: "Set up Visual Studio Code for beginner-friendly JavaScript and web development."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Getting Started With VS Code |
+| Description | Set up Visual Studio Code for beginner-friendly JavaScript and web development. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Getting Started With VS Code
 
 VS Code is where many beginners spend most of their development time, so the goal is not to install every extension. Start with a clean workspace, a terminal, source control, and a few settings that make the project easier to work in.

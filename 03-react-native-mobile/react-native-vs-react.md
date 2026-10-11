@@ -1,10 +1,11 @@
-﻿---
-title: "React Native vs React: What's the Difference?"
-description: "Compare React for web and React Native for mobile with practical beginner examples."
-category: "React Native / Mobile Development"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | React Native vs React: What's the Difference? |
+| Description | Compare React for web and React Native for mobile with practical beginner examples. |
+| Category | React Native / Mobile Development |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # React Native vs React: What's the Difference?
 
 React and React Native share the same component model, but they target different platforms. React renders web interfaces. React Native renders mobile interfaces.

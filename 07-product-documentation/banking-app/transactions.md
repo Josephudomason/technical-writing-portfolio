@@ -1,10 +1,11 @@
-﻿---
-title: "Transactions"
-description: "View transaction history, transaction details, and statements in NovaBank."
-category: "Product Documentation"
-audience: "Banking app users and support teams"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Transactions |
+| Description | View transaction history, transaction details, and statements in NovaBank. |
+| Category | Product Documentation |
+| Audience | Banking app users and support teams |
+| Difficulty | Beginner |
+
 # Transactions
 
 > NovaBank is a fictional banking application used for portfolio documentation. It is not a real bank, financial institution, or regulated product.

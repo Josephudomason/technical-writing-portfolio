@@ -1,10 +1,11 @@
-﻿---
-title: "Props vs State in React"
-description: "Learn the difference between props and state in React and when to use each one."
-category: "React / Next.js"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Props vs State in React |
+| Description | Learn the difference between props and state in React and when to use each one. |
+| Category | React / Next.js |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Props vs State in React
 
 Props and state are two core ways React components work with data. Props come from a parent component. State belongs to a component and can change over time.

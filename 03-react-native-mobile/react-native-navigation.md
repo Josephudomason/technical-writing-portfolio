@@ -1,10 +1,11 @@
-﻿---
-title: "How Navigation Works in React Native"
-description: "Understand screen navigation, stacks, tabs, and beginner setup patterns in React Native."
-category: "React Native / Mobile Development"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | How Navigation Works in React Native |
+| Description | Understand screen navigation, stacks, tabs, and beginner setup patterns in React Native. |
+| Category | React Native / Mobile Development |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # How Navigation Works in React Native
 
 Mobile apps usually navigate between screens instead of web pages. React Native does not include a full navigation system by itself, so many projects use libraries such as React Navigation or Expo Router.

@@ -1,10 +1,11 @@
-﻿---
-title: "Fictional User API Documentation"
-description: "Overview documentation for a fictional REST API used to demonstrate professional API documentation."
-category: "API Documentation"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Fictional User API Documentation |
+| Description | Overview documentation for a fictional REST API used to demonstrate professional API documentation. |
+| Category | API Documentation |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Fictional User API Documentation
 
 This documentation describes the Fictional User API, a demonstration REST API created for documentation portfolio purposes. It is not connected to a real service, bank, employer, or production system.

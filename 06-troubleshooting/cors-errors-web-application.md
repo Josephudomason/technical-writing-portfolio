@@ -1,10 +1,11 @@
-﻿---
-title: "How to Fix CORS Errors in a Web Application"
-description: "Understand and fix browser CORS errors by configuring the server instead of weakening the client."
-category: "Troubleshooting"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | How to Fix CORS Errors in a Web Application |
+| Description | Understand and fix browser CORS errors by configuring the server instead of weakening the client. |
+| Category | Troubleshooting |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # How to Fix CORS Errors in a Web Application
 
 This troubleshooting guide explains how to diagnose the problem, identify likely causes, and apply fixes in a safe order.

@@ -1,10 +1,11 @@
-﻿---
-title: "Understanding APIs: A Beginner's Guide"
-description: "A practical beginner guide to APIs, HTTP methods, requests, responses, and JSON."
-category: "Beginner Programming"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Understanding APIs: A Beginner's Guide |
+| Description | A practical beginner guide to APIs, HTTP methods, requests, responses, and JSON. |
+| Category | Beginner Programming |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Understanding APIs: A Beginner's Guide
 
 An API, or Application Programming Interface, is a defined way for software systems to communicate. Web developers commonly use APIs to send and receive data between a client application and a server.

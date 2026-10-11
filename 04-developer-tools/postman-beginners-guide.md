@@ -1,10 +1,11 @@
-﻿---
-title: "Postman Beginner's Guide"
-description: "Use Postman to send API requests, inspect responses, organize collections, and test endpoints."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Postman Beginner's Guide |
+| Description | Use Postman to send API requests, inspect responses, organize collections, and test endpoints. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Postman Beginner's Guide
 
 Postman is useful before the frontend exists, while the frontend is being built, and when an API request fails. This guide focuses on sending requests, checking responses, and saving repeatable API examples.

@@ -1,10 +1,11 @@
-﻿---
-title: "Jest Beginner's Guide"
-description: "Write your first Jest unit test and understand matchers, scripts, and test organization."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Jest Beginner's Guide |
+| Description | Write your first Jest unit test and understand matchers, scripts, and test organization. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Jest Beginner's Guide
 
 Jest is most useful when you use it to check small pieces of behavior quickly. This guide starts with a simple function test before moving into heavier topics like mocks or framework-specific test setup.

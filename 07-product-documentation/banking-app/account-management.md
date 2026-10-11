@@ -1,10 +1,11 @@
-﻿---
-title: "Account Management"
-description: "View balances and manage account details in the fictional NovaBank application."
-category: "Product Documentation"
-audience: "Banking app users and support teams"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Account Management |
+| Description | View balances and manage account details in the fictional NovaBank application. |
+| Category | Product Documentation |
+| Audience | Banking app users and support teams |
+| Difficulty | Beginner |
+
 # Account Management
 
 > NovaBank is a fictional banking application used for portfolio documentation. It is not a real bank, financial institution, or regulated product.

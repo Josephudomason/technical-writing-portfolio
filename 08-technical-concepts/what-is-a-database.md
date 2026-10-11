@@ -1,10 +1,11 @@
-﻿---
-title: "What Is a Database?"
-description: "Understand what databases are, how they store data, and why applications use them."
-category: "Technical Concepts"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | What Is a Database? |
+| Description | Understand what databases are, how they store data, and why applications use them. |
+| Category | Technical Concepts |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # What Is a Database?
 
 A database stores and organizes data so applications can create, read, update, and delete information reliably.

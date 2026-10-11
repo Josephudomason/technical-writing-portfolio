@@ -1,10 +1,11 @@
-﻿---
-title: "Transfers"
-description: "Make transfers, check transfer status, and understand failed transfers in NovaBank."
-category: "Product Documentation"
-audience: "Banking app users and support teams"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Transfers |
+| Description | Make transfers, check transfer status, and understand failed transfers in NovaBank. |
+| Category | Product Documentation |
+| Audience | Banking app users and support teams |
+| Difficulty | Beginner |
+
 # Transfers
 
 > NovaBank is a fictional banking application used for portfolio documentation. It is not a real bank, financial institution, or regulated product.

@@ -1,10 +1,11 @@
-﻿---
-title: "What Is OAuth?"
-description: "A simple explanation of OAuth 2.0, delegated access, scopes, and common use cases."
-category: "Technical Concepts"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | What Is OAuth? |
+| Description | A simple explanation of OAuth 2.0, delegated access, scopes, and common use cases. |
+| Category | Technical Concepts |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # What Is OAuth?
 
 OAuth is a protocol for delegated access. It lets one application access limited resources on behalf of a user without receiving the user's password.

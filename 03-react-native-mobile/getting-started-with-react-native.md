@@ -1,10 +1,11 @@
-﻿---
-title: "Getting Started With React Native"
-description: "Learn what React Native is, how it differs from web React, and how to start a mobile app."
-category: "React Native / Mobile Development"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Getting Started With React Native |
+| Description | Learn what React Native is, how it differs from web React, and how to start a mobile app. |
+| Category | React Native / Mobile Development |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Getting Started With React Native
 
 React Native lets you build native mobile apps with React concepts. Instead of rendering HTML elements, React Native renders native platform components for iOS and Android.

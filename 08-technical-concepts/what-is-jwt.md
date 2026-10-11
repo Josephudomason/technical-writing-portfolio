@@ -1,10 +1,11 @@
-﻿---
-title: "What Is JWT?"
-description: "Understand JSON Web Tokens, claims, signatures, and safe beginner usage."
-category: "Technical Concepts"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | What Is JWT? |
+| Description | Understand JSON Web Tokens, claims, signatures, and safe beginner usage. |
+| Category | Technical Concepts |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # What Is JWT?
 
 JWT stands for JSON Web Token. It is a compact token format often used to represent claims between systems.

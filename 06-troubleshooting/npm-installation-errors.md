@@ -1,10 +1,11 @@
-﻿---
-title: "How to Fix npm Installation Errors"
-description: "Fix common npm install failures caused by network issues, dependency conflicts, permissions, and Node versions."
-category: "Troubleshooting"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | How to Fix npm Installation Errors |
+| Description | Fix common npm install failures caused by network issues, dependency conflicts, permissions, and Node versions. |
+| Category | Troubleshooting |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # How to Fix npm Installation Errors
 
 This troubleshooting guide explains how to diagnose the problem, identify likely causes, and apply fixes in a safe order.

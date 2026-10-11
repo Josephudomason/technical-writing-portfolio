@@ -1,10 +1,11 @@
-﻿---
-title: "Errors"
-description: "Error response format, status codes, and validation examples for the fictional User API."
-category: "API Documentation"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Errors |
+| Description | Error response format, status codes, and validation examples for the fictional User API. |
+| Category | API Documentation |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Errors
 
 The Fictional User API returns structured JSON errors. This page is part of a demonstration documentation project.

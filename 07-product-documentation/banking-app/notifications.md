@@ -1,10 +1,11 @@
-﻿---
-title: "Notifications"
-description: "Configure alerts and notification preferences in the fictional NovaBank application."
-category: "Product Documentation"
-audience: "Banking app users and support teams"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Notifications |
+| Description | Configure alerts and notification preferences in the fictional NovaBank application. |
+| Category | Product Documentation |
+| Audience | Banking app users and support teams |
+| Difficulty | Beginner |
+
 # Notifications
 
 > NovaBank is a fictional banking application used for portfolio documentation. It is not a real bank, financial institution, or regulated product.

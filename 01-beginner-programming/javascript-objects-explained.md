@@ -1,10 +1,11 @@
-﻿---
-title: "JavaScript Objects Explained for Beginners"
-description: "A clear introduction to JavaScript objects, properties, methods, and common beginner patterns."
-category: "Beginner Programming"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | JavaScript Objects Explained for Beginners |
+| Description | A clear introduction to JavaScript objects, properties, methods, and common beginner patterns. |
+| Category | Beginner Programming |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # JavaScript Objects Explained for Beginners
 
 JavaScript objects let you group related data under meaningful names. They are used for users, products, API responses, configuration, component props, and many other structures.

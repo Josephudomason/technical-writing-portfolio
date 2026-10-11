@@ -1,10 +1,11 @@
-﻿---
-title: "NovaBank Troubleshooting"
-description: "Resolve common login, transaction, password, and verification problems in NovaBank."
-category: "Product Documentation"
-audience: "Banking app users and support teams"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | NovaBank Troubleshooting |
+| Description | Resolve common login, transaction, password, and verification problems in NovaBank. |
+| Category | Product Documentation |
+| Audience | Banking app users and support teams |
+| Difficulty | Beginner |
+
 # NovaBank Troubleshooting
 
 > NovaBank is a fictional banking application used for portfolio documentation. It is not a real bank, financial institution, or regulated product.

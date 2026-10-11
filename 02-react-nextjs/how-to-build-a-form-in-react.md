@@ -1,10 +1,11 @@
-﻿---
-title: "How to Build a Form in React"
-description: "Build a beginner-friendly React form with controlled inputs, validation, submit handling, and loading state."
-category: "React / Next.js"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | How to Build a Form in React |
+| Description | Build a beginner-friendly React form with controlled inputs, validation, submit handling, and loading state. |
+| Category | React / Next.js |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # How to Build a Form in React
 
 Forms look simple until you need validation, loading states, error messages, and API submission. A controlled form is a good beginner pattern because it keeps the input values in React state, where you can inspect and validate them before sending anything.

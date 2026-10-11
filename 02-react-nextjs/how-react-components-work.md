@@ -1,10 +1,11 @@
-﻿---
-title: "How React Components Work"
-description: "Understand React components, JSX, composition, and rendering with beginner-friendly examples."
-category: "React / Next.js"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | How React Components Work |
+| Description | Understand React components, JSX, composition, and rendering with beginner-friendly examples. |
+| Category | React / Next.js |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # How React Components Work
 
 React components are reusable pieces of UI. A component can render a button, a form, a navigation bar, a page section, or an entire screen.

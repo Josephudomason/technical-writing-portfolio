@@ -1,10 +1,11 @@
-﻿---
-title: "Understanding ScrollView vs FlatList"
-description: "Learn when to use ScrollView and FlatList in React Native and how to avoid performance issues."
-category: "React Native / Mobile Development"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Understanding ScrollView vs FlatList |
+| Description | Learn when to use ScrollView and FlatList in React Native and how to avoid performance issues. |
+| Category | React Native / Mobile Development |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Understanding ScrollView vs FlatList
 
 `ScrollView` and `FlatList` both display scrollable content in React Native, but they are designed for different jobs. Choosing the wrong one can cause slow rendering and memory problems.

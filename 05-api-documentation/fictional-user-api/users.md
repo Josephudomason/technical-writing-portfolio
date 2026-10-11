@@ -1,10 +1,11 @@
-﻿---
-title: "Users"
-description: "Endpoint reference for creating, listing, retrieving, updating, and deleting users in a fictional REST API."
-category: "API Documentation"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Users |
+| Description | Endpoint reference for creating, listing, retrieving, updating, and deleting users in a fictional REST API. |
+| Category | API Documentation |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Users
 
 This page documents the user endpoints for the Fictional User API. The API is fictional and is provided only as a documentation demonstration.

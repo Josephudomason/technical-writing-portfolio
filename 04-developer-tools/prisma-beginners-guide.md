@@ -1,10 +1,11 @@
-﻿---
-title: "Prisma Beginner's Guide"
-description: "Use Prisma ORM to model data, create migrations, and query a database from TypeScript."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Prisma Beginner's Guide |
+| Description | Use Prisma ORM to model data, create migrations, and query a database from TypeScript. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Prisma Beginner's Guide
 
 Prisma gives TypeScript projects a structured way to model database tables and query them from application code. This guide focuses on the beginner path: schema, migration, generated client, and a first query.

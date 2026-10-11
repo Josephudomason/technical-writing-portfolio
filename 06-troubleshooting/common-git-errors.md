@@ -1,10 +1,11 @@
-﻿---
-title: "Common Git Errors and How to Fix Them"
-description: "Resolve common Git problems including merge conflicts, rejected pushes, detached HEAD, and untracked files."
-category: "Troubleshooting"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Common Git Errors and How to Fix Them |
+| Description | Resolve common Git problems including merge conflicts, rejected pushes, detached HEAD, and untracked files. |
+| Category | Troubleshooting |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Common Git Errors and How to Fix Them
 
 This troubleshooting guide explains how to diagnose the problem, identify likely causes, and apply fixes in a safe order.

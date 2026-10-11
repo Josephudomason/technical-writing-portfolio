@@ -1,10 +1,11 @@
-﻿---
-title: "How to Structure a React Native Project"
-description: "A practical beginner guide to organizing screens, components, hooks, services, and assets in React Native."
-category: "React Native / Mobile Development"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | How to Structure a React Native Project |
+| Description | A practical beginner guide to organizing screens, components, hooks, services, and assets in React Native. |
+| Category | React Native / Mobile Development |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # How to Structure a React Native Project
 
 A clear project structure helps a React Native app stay understandable as it grows. The goal is to group files by responsibility without creating folders that are too abstract for a beginner team.

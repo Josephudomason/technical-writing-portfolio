@@ -1,10 +1,11 @@
-﻿---
-title: "Why Is My React Native ScrollView Not Scrolling?"
-description: "Fix React Native ScrollView problems caused by layout, flex styles, nested scrolling, and content size."
-category: "Troubleshooting"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Why Is My React Native ScrollView Not Scrolling? |
+| Description | Fix React Native ScrollView problems caused by layout, flex styles, nested scrolling, and content size. |
+| Category | Troubleshooting |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Why Is My React Native ScrollView Not Scrolling?
 
 This troubleshooting guide explains how to diagnose the problem, identify likely causes, and apply fixes in a safe order.

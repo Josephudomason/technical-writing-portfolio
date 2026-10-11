@@ -1,10 +1,11 @@
-﻿---
-title: "NovaBank User Documentation"
-description: "Overview documentation for a fictional banking application called NovaBank."
-category: "Product Documentation"
-audience: "Banking app users and support teams"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | NovaBank User Documentation |
+| Description | Overview documentation for a fictional banking application called NovaBank. |
+| Category | Product Documentation |
+| Audience | Banking app users and support teams |
+| Difficulty | Beginner |
+
 # NovaBank User Documentation
 
 > NovaBank is a fictional banking application used for portfolio documentation. It is not a real bank, financial institution, or regulated product.

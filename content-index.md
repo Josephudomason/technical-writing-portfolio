@@ -1,10 +1,11 @@
-﻿---
-title: "Master Content Index"
-description: "A complete linked index of every article in the technical-writing documentation library."
-category: "Documentation Library"
-audience: "Reviewers and documentation maintainers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Master Content Index |
+| Description | A complete linked index of every article in the technical-writing documentation library. |
+| Category | Documentation Library |
+| Audience | Reviewers and documentation maintainers |
+| Difficulty | Beginner |
+
 # Master Content Index
 
 Use this index to scan the documentation set and jump directly to a topic. Every linked page is a Markdown file in this repository.

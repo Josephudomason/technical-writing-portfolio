@@ -1,10 +1,11 @@
-﻿---
-title: "Git and GitHub Beginner's Guide"
-description: "Learn Git version control, GitHub repositories, commits, branches, and pull requests."
-category: "Developer Tools"
-audience: "Beginner developers"
-difficulty: "Beginner"
----
+| Field | Details |
+| --- | --- |
+| Title | Git and GitHub Beginner's Guide |
+| Description | Learn Git version control, GitHub repositories, commits, branches, and pull requests. |
+| Category | Developer Tools |
+| Audience | Beginner developers |
+| Difficulty | Beginner |
+
 # Git and GitHub Beginner's Guide
 
 Git helps you keep a history of your work. GitHub helps you share that history with other people. This guide keeps the focus on the workflow a junior developer is most likely to use on a team: branch, commit, push, and open a pull request.
